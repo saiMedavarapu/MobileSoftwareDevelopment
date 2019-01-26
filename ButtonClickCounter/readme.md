@@ -7,6 +7,6 @@ sure the count number reset back to 0. The interface screen must display a “Ta
 Button and a message with a count number (which is initialized to 0). Use a Linerlayout,
 TextViews, ImageViews, Buttons, and other concepts that you learnt in the class.
 
-##Implementation.
+## Implementation.
 
 This is implemented in Java using Onclick listeners. Inside the source code look at the Activity2.java and Activity2.xml files for logic.
