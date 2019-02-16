@@ -6,13 +6,4 @@ perform the fundamental mathematical operations such as addition, subtraction, m
 division, as well as some advance mathematical operations such as square root, square, and cube of a number.
 Also include the “clear” operation in your calculator to clear the display screen.
 
-### Preview
-
-![Screenshot](/ss1.png)
-
-### Preview
-![Screenshot](/ss2.png)
-
-### Preview
-![Screenshot](/ss3.png)
 
