@@ -7,3 +7,7 @@ division, as well as some advance mathematical operations such as square root, s
 Also include the “clear” operation in your calculator to clear the display screen.
 
 ### Screenshots
+
+![Resume Screenshot](/ss1.png)
+![Resume Screenshot](/ss2.png)
+![Resume Screenshot](/ss3.png)
